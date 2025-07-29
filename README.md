@@ -4,7 +4,7 @@ This global statistics report provides comprehensive data and analysis on worldw
 # steps 1
 ![dashboard](HEALTHCARE.PNG)
 # step 2
-![dashboard]()
+![dashboard](HEALTHCARE.PNG)
 
 
 
